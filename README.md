@@ -21,6 +21,7 @@ DBSCAN-based-on-Spark
 │   └── wait to update
 ├── 4.report
 │   ├── report.txt
-│   └── proposal.pdf
+│   ├── proposal.pdf
+│   └── wait to update
 └── README.md
 ```
