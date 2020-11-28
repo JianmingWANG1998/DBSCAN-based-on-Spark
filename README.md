@@ -1,4 +1,4 @@
-# DBSCAN-based-on-Spark
+# Parallel-DBSCAN-based-on-Spark
 Implementation of the parallel DBSCAN based on Spark -- MSBD5003 Group Project.
 
 ### File Structure
