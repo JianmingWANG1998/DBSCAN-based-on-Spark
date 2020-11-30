@@ -12,7 +12,6 @@ DBSCAN-based-on-Spark
 │   ├── R15.txt
 │   ├── aggregation.txt
 │   ├── dim032.txt
-│   ├── jain.txt
 │   ├── pathbased.txt
 │   ├── spiral.txt
 │   └── yeast.txt
