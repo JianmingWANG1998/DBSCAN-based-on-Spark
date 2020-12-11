@@ -48,4 +48,6 @@ This project is about how to implement some parallel DBSCAN algorithms on Spark.
 |`packages`|...|
 
 
+## Results Display:
+Here we show one data-set of four we used - Aggregation:
 
