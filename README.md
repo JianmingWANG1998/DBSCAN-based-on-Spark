@@ -50,5 +50,5 @@ This project is about how to implement some parallel DBSCAN algorithms on Spark.
 
 ## Results Display:
 Here we show one data-set of four we used - Aggregation:
-![image](https://github.com/DataconTom/DBSCAN-based-on-Spark/blob/main/Image/1607700922502.jpg)
-![image](https://github.com/DataconTom/DBSCAN-based-on-Spark/blob/main/Image/1607700951759.jpg)
+![image](https://github.com/DataconTom/DBSCAN-based-on-Spark/blob/main/5.image/1607700922502.jpg)
+![image](https://github.com/DataconTom/DBSCAN-based-on-Spark/blob/main/5.image/1607700951759.jpg)
