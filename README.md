@@ -1,4 +1,4 @@
-# Parallel-DBSCAN-based-on-Spark
+Parallel-DBSCAN-based-on-Spark
 ===========================
 Implementation of the parallel DBSCAN based on Spark -- MSBD5003 Group Project.
 
@@ -36,13 +36,14 @@ This project is about how to implement some parallel DBSCAN algorithms on Spark.
 |Email|xzhangfa@connect.ust.hk|
 
 ## Dues:
-
+------
 - **2020/10/18** **Proposal Submission**
 - **2020/11/24** **Presentation**
 - **2020/12/20** **Final Report and PPT**
 
 
 ## Environment Information:
+------
 |environment|version|
 |----|-----|
 |`spark`|spark-3.0.0-bin-hadoop2.7.tgz|
