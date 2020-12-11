@@ -43,9 +43,12 @@ This project is about how to implement some parallel DBSCAN algorithms on Spark.
 
 
 ## Environment Information:
+|environment|version|
+|----|-----|
+|`spark`|spark-3.0.0-bin-hadoop2.7.tgz|
+|`JDK`| jdk-8u261-windows-x64.exe|
+|`hadoop`|hadoop-2.7.7.tar.gz|
+|`packages`|...|
 
-1. spark-3.0.0-bin-hadoop2.7.tgz
-2. jdk-8u261-windows-x64.exe
-3. hadoop-2.7.7.tar.gz
 
 
