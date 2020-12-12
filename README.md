@@ -8,8 +8,7 @@ Implementation of the parallel DBSCAN based on Spark -- MSBD5003 Group Project.
 ```
 DBSCAN-based-on-Spark
 ├── 1.reading materials
-│   ├── introduction.txt
-│   └── wait to update
+│   └── introduction.txt
 ├── 2.dataset
 │   ├── D31.txt
 │   ├── R15.txt
@@ -19,12 +18,20 @@ DBSCAN-based-on-Spark
 │   ├── spiral.txt
 │   └── yeast.txt
 ├── 3.code
-│   ├── algorithm.txt
-│   └── wait to update
+│   ├── Parallel_BOUNDARY_BASED_SPLIT_DBSCAN.ipynb
+│   ├── Parallel_COST_BASED_SPLIT_DBSCAN.ipynb
+│   ├── Parallel_Matrix_DBSCAN.ipynb
+│   └── algorithm.txt
 ├── 4.report
-│   ├── report.txt
+│   ├── 5003_Group12_Final_PPT.pdf
+│   ├── 5003_Group12_Final_PPT.pptx
+│   ├── 5003_Group12_Final_Report.pdf
 │   ├── proposal.pdf
-│   └── wait to update
+│   └── report.txt
+├── 5.image
+│   ├── 1607700922502.jpg
+│   ├── 1607700951759.jpg
+│   └── image.png
 └── README.md
 ```
 ### Task Description:
